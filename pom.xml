@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>site.bulibucai</groupId>
-    <artifactId>spring-jdbc-demo</artifactId>
+    <artifactId>spring-boot-jdbc-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-jdbc-demo</name>
     <description>Demo project for Spring Boot</description>
